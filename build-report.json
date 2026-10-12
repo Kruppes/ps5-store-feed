@@ -1,0 +1,13 @@
+{
+ "upstream_base": "https://homebrew.page/api/v1/",
+ "upstream_sequence": 221,
+ "upstream_commit": "b4c0ad7bd8810df8022119a16c3691811d89c40e",
+ "upstream_sig_key": "da351006acb6e3c3",
+ "records": 62,
+ "record_diffs": [],
+ "records_not_built": [],
+ "built_without_record": [],
+ "served_json": 64,
+ "icons": 124,
+ "index_count": 62
+}
